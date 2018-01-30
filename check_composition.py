@@ -48,7 +48,7 @@ def get_statistics(protein_file, amino_acid):
 
 
 
-def write_result(output_file, amino_acid, total_aa):
+def write_result(output_file, amino_acid):
     """Write statistics
     """
     try:
